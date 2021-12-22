@@ -1,0 +1,12 @@
+
+body {
+    background-color: hsl(216, 50%, 16%);
+    margin: 25px;
+}   
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
