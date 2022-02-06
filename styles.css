@@ -1,10 +1,11 @@
-
-
-
-
-
-
-
+:root {
+    --soft-blue: hsl(215, 51%, 70%);
+    --cyan: hsl(178, 100%, 50%);
+    --main-bg-color: hsl(217, 54%, 11%);
+    --card-bg-color: hsl(216, 50%, 16%);
+    --line: hsl(215, 32%, 27%);
+    --white: hsl(0, 0%, 100%);
+}
 
 @font-face {
     font-family: Outfit;
@@ -26,8 +27,9 @@
     font-weight: 600;
     font-style: normal;
 }
+
 body {
-    background-color: hsl(216, 50%, 16%);
+    background-color: var(--main-bg-color);
     margin: 25px;
 }   
 
@@ -40,6 +42,6 @@ img {
 h1 {
     font-family: Outfit;
     font-weight: 400;
-    color: white;
+    color: var(--white);
 }
 
