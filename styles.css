@@ -31,7 +31,11 @@
 body {
     background-color: var(--main-bg-color);
     margin: 25px;
-}   
+}
+
+.card {
+    background-color: var(--card-bg-color);    
+}
 
 img {
     max-width: 100%;
