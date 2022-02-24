@@ -52,3 +52,10 @@ h1 {
     color: var(--white);
 }
 
+.bluetext {
+    color: var(--soft-blue)
+}
+
+.whitetext {
+    color: var(--white);
+}
