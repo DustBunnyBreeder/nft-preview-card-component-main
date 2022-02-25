@@ -31,6 +31,8 @@
 body {
     background-color: var(--main-bg-color);
     margin: 25px;
+    font-family: Outfit;
+    font-size: 18px;
 }
 
 .card {
@@ -46,7 +48,7 @@ img {
     border-radius: 10px;
 }
 
-h1 {
+h2 {
     font-family: Outfit;
     font-weight: 400;
     color: var(--white);
@@ -67,5 +69,3 @@ h1 {
 .line {
     color: var(--line)
 }
-
-/* todos: add cyan */
