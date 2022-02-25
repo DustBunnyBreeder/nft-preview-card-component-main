@@ -64,4 +64,8 @@ h1 {
     color: var(--cyan);
 }
 
+.line {
+    color: var(--line)
+}
+
 /* todos: add cyan */
