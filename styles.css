@@ -59,3 +59,9 @@ h1 {
 .whitetext {
     color: var(--white);
 }
+
+.cyantext {
+    color: var(--cyan);
+}
+
+/* todos: add cyan */
