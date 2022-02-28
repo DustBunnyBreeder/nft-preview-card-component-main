@@ -70,6 +70,16 @@ h2 {
     color: var(--line)
 }
 
+.cyantext>img {
+    position: relative;
+    top: 3px;
+}
+
+.bluetext>img {
+    position: relative;
+    top: 3px;
+}
+
 footer img {
     max-width: 2rem;
     border: 1px solid var(--white);
