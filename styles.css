@@ -32,7 +32,8 @@ body {
     background-color: var(--main-bg-color);
     margin: 25px;
     font-family: Outfit;
-    font-size: 18px;
+    font-size: 16px;
+    line-height: 1.7;
 }
 
 .card {
@@ -83,4 +84,6 @@ h2 {
 footer img {
     max-width: 2rem;
     border: 1px solid var(--white);
+    position: relative;
+    top: .5em;
 }
