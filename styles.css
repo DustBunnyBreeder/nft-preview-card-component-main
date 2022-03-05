@@ -74,11 +74,13 @@ h2 {
 .cyantext>img {
     position: relative;
     top: 3px;
+    margin-right: .5ch
 }
 
 .bluetext>img {
     position: relative;
     top: 3px;
+    margin-right: .5ch
 }
 
 footer img {
