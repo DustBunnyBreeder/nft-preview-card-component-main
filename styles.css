@@ -71,6 +71,11 @@ h2 {
     color: var(--line)
 }
 
+.stats {
+    display: flex;
+    justify-content: space-between;
+}
+
 .cyantext>img {
     position: relative;
     top: 3px;
