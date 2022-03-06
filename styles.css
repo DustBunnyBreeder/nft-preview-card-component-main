@@ -70,6 +70,7 @@ h2 {
 .stats {
     display: flex;
     justify-content: space-between;
+    padding-bottom: 1em;
 }
 
 .cyantext>img {
@@ -95,4 +96,5 @@ footer img {
 
 footer {
     border-top: 1px solid var(--line);
+    padding-top: 1em;
 }
