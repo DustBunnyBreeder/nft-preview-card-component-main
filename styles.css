@@ -93,7 +93,7 @@ footer img {
     border-radius: 50%;
     margin-right: 1em;
 }
-
+/* using border top instead of an <hr> for styling, semantic not needed */
 footer {
     border-top: 1px solid var(--line);
     padding-top: 1em;
