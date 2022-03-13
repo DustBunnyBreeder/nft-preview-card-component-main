@@ -34,9 +34,8 @@ body {
     font-family: Outfit;
     font-size: 16px;
     line-height: 1.7;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
+    display: grid;
+    place-items: center;
 }
 
 .card {
