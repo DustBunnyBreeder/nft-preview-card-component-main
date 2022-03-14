@@ -77,12 +77,12 @@ h2 {
 }
 
 .cyantext>img {
-    vertical-align: middle;
+    vertical-align: -2px;
     margin-right: .5ch
 }
 
 .bluetext>img {
-    vertical-align: middle;
+    vertical-align:-2px;
     margin-right: .5ch
 }
 
