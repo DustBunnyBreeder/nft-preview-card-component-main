@@ -99,5 +99,6 @@ footer {
     padding-top: 1em;
 }
 
-/* TASK fix width of card so it's always the same. */
+/* TASK fix width of card so it's always the same. Should I use something other than pixels?*/
 /* Should I use border box sizing? */
+/* Fix active states */
