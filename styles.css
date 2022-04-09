@@ -46,6 +46,10 @@ body {
     max-width: 310px;   
 }
 
+.eye {
+    background-color: var(--cyan);
+}
+
 img {
     max-width: 100%;
     height: auto;
