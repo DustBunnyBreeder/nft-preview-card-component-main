@@ -48,6 +48,7 @@ body {
 
 .eye {
     background-color: var(--cyan);
+    border-radius: 10px;
 }
 
 img {
