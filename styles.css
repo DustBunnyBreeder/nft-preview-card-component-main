@@ -46,6 +46,17 @@ body {
     max-width: 310px;   
 }
 
+.equilibrium {
+    width: 100%;
+	height: 285px;
+	border-radius: 15px;
+	object-fit: cover;
+	background-image: url(images/image-equilibrium.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
 .eye {
     background-color: var(--cyan);
     border-radius: 10px;
