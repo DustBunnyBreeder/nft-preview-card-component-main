@@ -46,6 +46,20 @@ body {
     max-width: 310px;   
 }
 
+h2 {
+    font-family: Outfit;
+    font-weight: 400;
+}
+
+a.cyanlink:link, a.cyanlink:visited {
+    color: white;
+    text-decoration: none;
+}
+
+a.cyanlink:focus, a.cyanlink:hover,a.cyanlink:active {
+    color: cyan;
+}
+
 /* The following code is mostly borrowed from Wilberk Ledezma from  https://www.frontendmentor.io/ solutions. */
 .equilibrium {
     width: 100%;
@@ -80,11 +94,7 @@ img {
     border-radius: 10px;
 }
 
-h2 {
-    font-family: Outfit;
-    font-weight: 400;
-    color: white;
-}
+
 
 .bluetext {
     color: var(--soft-blue)
