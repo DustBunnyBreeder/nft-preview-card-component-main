@@ -39,6 +39,14 @@ body {
     height: 100vh;
 }
 
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    padding-top: 1em;
+    color: var(--soft-blue);
+}
+.attribution a { color: hsl(228, 45%, 44%); }
+
 .card {
     background-color: var(--card-bg-color);
     padding: 25px; 
